@@ -44,7 +44,7 @@ function c90000004.cost(e,tp,eg,ep,ev,re,r,rp,chk)
 end
 
 function c90000004.filter(c,e,tp)
-	return c:IsLevelBelow(3) and c:IsRace(RACE_FAIRY) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
+	return c:IsLevelBelow(4) and c:IsRace(RACE_FAIRY) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function c90000004.sumtg(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
 	if chkc then return chkc:IsLocation(LOCATION_GRAVE) and chkc:IsControler(tp) and c90000004.filter(chkc,e,tp) end

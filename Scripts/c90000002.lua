@@ -1,14 +1,14 @@
 --Dreamstride - Nightmare Inflicter
 function c90000002.initial_effect(c)
-	--actlimit
+	--no damage
 	local e1=Effect.CreateEffect(c)
-	e1:SetType(EFFECT_TYPE_FIELD)
-	e1:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
-	e1:SetCode(EFFECT_CANNOT_ACTIVATE)
-	e1:SetRange(LOCATION_MZONE)
-	e1:SetTargetRange(0,1)
-	e1:SetValue(c90000002.aclimit)
-	e1:SetCondition(c90000002.actcon)
+	e1:SetDescription(aux.Stringid(90000002,1))
+	e1:SetType(EFFECT_TYPE_QUICK_O)
+	e1:SetRange(LOCATION_HAND)
+	e1:SetCode(EVENT_PRE_DAMAGE_CALCULATE)
+	e1:SetCondition(c90000002.damcon)
+	e1:SetCost(c90000002.damcost)
+	e1:SetOperation(c90000002.damop)
 	c:RegisterEffect(e1)
 	
 	--ss
@@ -23,11 +23,23 @@ function c90000002.initial_effect(c)
 	c:RegisterEffect(e2)
 end
 --------------------------------------------------------
-function c90000002.aclimit(e,re,tp)
-	return re:IsHasType(EFFECT_TYPE_ACTIVATE)
+function c90000002.damcon(e,tp,eg,ep,ev,re,r,rp)
+	return Duel.GetBattleDamage(tp)>0
 end
-function c90000002.actcon(e)
-	return Duel.GetAttacker()==e:GetHandler()
+function c90000002.damcost(e,tp,eg,ep,ev,re,r,rp,chk)
+	if chk==0 then return e:GetHandler():IsAbleToGraveAsCost() end
+	Duel.SendtoGrave(e:GetHandler(),REASON_COST)
+end
+function c90000002.damop(e,tp,eg,ep,ev,re,r,rp)
+	local e1=Effect.CreateEffect(e:GetHandler())
+	e1:SetType(EFFECT_TYPE_FIELD+EFFECT_TYPE_CONTINUOUS)
+	e1:SetCode(EVENT_PRE_BATTLE_DAMAGE)
+	e1:SetOperation(c90000002.dop)
+	e1:SetReset(RESET_PHASE+PHASE_DAMAGE)
+	Duel.RegisterEffect(e1,tp)
+end
+function c90000002.dop(e,tp,eg,ep,ev,re,r,rp)
+	Duel.ChangeBattleDamage(tp,0)
 end
 --------------------------------------------------------
 function c90000002.cfilter(c)

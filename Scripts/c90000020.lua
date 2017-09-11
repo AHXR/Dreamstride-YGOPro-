@@ -23,6 +23,32 @@ function c90000020.initial_effect(c)
 	e2:SetTarget(c90000020.tg)
 	e2:SetOperation(c90000020.op)
 	c:RegisterEffect(e2)
+	
+	--draw
+	local e8=Effect.CreateEffect(c)
+	e8:SetDescription(aux.Stringid(90000020,1))
+	e8:SetCategory(CATEGORY_DRAW)
+	e8:SetType(EFFECT_TYPE_SINGLE+EFFECT_TYPE_TRIGGER_F)
+	e8:SetCode(EVENT_BE_MATERIAL)
+	e8:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
+	e8:SetCondition(c90000020.drcon)
+	e8:SetTarget(c90000020.drtg)
+	e8:SetOperation(c90000020.drop)
+	c:RegisterEffect(e8)
+end
+--------------------------------------------
+function c90000020.drcon(e,tp,eg,ep,ev,re,r,rp)
+	return e:GetHandler():IsLocation(LOCATION_GRAVE) and r==REASON_SYNCHRO
+end
+function c90000020.drtg(e,tp,eg,ep,ev,re,r,rp,chk)
+	if chk==0 then return true end
+	Duel.SetTargetPlayer(tp)
+	Duel.SetTargetParam(1)
+	Duel.SetOperationInfo(0,CATEGORY_DRAW,nil,0,tp,1)
+end
+function c90000020.drop(e,tp,eg,ep,ev,re,r,rp)
+	local p,d=Duel.GetChainInfo(0,CHAININFO_TARGET_PLAYER,CHAININFO_TARGET_PARAM)
+	Duel.Draw(p,d,REASON_EFFECT)
 end
 --------------------------------------------
 function c90000020.valcon(e,re,r,rp)
