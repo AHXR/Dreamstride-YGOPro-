@@ -1,4 +1,4 @@
-1.1 - The "Meta" Update (9/11/2017)
+# 1.1 - The "Meta" Update (9/11/2017)
 
 After further testing with this archetype against more meta decks, it seems that this deck is extremely behind. I've reworked some of the cards to make this deck seem
 more like a competitor. Although that is the case, I also balanced some of the more powerful cards too.
@@ -29,6 +29,6 @@ more like a competitor. Although that is the case, I also balanced some of the m
 * Dreamstride - Solid Soul has been given an additional effect:
 > When a Level 3 or lower monster(s) is Special Summoned (except during the Damage Step): You can Special Summon this card from hand. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 FAIRY-Type monster from your Deck to your hand. If this card is sent to the Graveyard for a Synchro Summon or Fusion Summon of a FAIRY monster, draw 1 card. 
 
-1.0 (9/10/2017)
+# 1.0 (9/10/2017)
 
 * Initial Release
