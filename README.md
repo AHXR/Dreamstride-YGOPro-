@@ -50,6 +50,7 @@ some of these cards were snowballing very easily and it just extremely unfair, e
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nujRkczy1Ik
 " target="_blank"><img src="http://img.youtube.com/vi/nujRkczy1Ik/0.jpg" 
 alt="Click to watch Dreamstride in Action" width="560" height="315" border="10" /></a>
+
 Click the image above to watch this archetype against Spellbooks & Mermails
 
 ## Duel 1 Breakdown
