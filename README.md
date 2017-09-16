@@ -1,4 +1,17 @@
-# Dreamstride - YGOPro-Fan-Made-Archetype
+# Dreamstride - YGOPro-Fan-Made-Archetype - Table of Contents
+
+* [Overview](https://github.com/AHXR/Dreamstride-YGOPro-#overview)
+* [Strengths & Weaknesses](https://github.com/AHXR/Dreamstride-YGOPro-#strengths--weaknesses)
+  * [Strengths](https://github.com/AHXR/Dreamstride-YGOPro-#strengths)
+  * [Weaknesses](https://github.com/AHXR/Dreamstride-YGOPro-#weaknesses)
+* [Video - Dreamstride In Action](https://github.com/AHXR/Dreamstride-YGOPro-#dreamstride-in-action--breakdown)
+  * [Duel 1 Breakdown](https://github.com/AHXR/Dreamstride-YGOPro-#duel-1-breakdown)
+  * [Duel 2 Breakdown](https://github.com/AHXR/Dreamstride-YGOPro-#duel-2-breakdown)
+* [Cards](https://github.com/AHXR/Dreamstride-YGOPro-#cards)
+  * [Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#monsters)
+  * [Spells](https://github.com/AHXR/Dreamstride-YGOPro-#spells)
+
+# Overview
 ![Preview](http://i.imgur.com/3dyjJbn.jpg) ![Preview](http://i.imgur.com/QZx76xk.jpg)
 Dreamstride is a fan-made archetype that was created for YGOPro. This archetype contains a list of FAIRY monsters and works together with fusion monsters to form powerful Synchro monsters. 
 
