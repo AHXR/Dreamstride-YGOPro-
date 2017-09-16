@@ -25,3 +25,6 @@ Dragon - 90000021
 Expedition - 90000022
 Hangman - 90000023
 Inner Loathe - 90000024
+Priest - 90000025
+Nightmare Snake Nest - 90000026
+Wyvern - 90000027

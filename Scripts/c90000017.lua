@@ -20,6 +20,7 @@ function c90000017.filter(c,e,tp)
 	return c:IsLevelBelow(4) and c:IsRace(RACE_FAIRY) and c:IsCanBeSpecialSummoned(e,0,tp,false,false)
 end
 function c90000017.tg(e,tp,eg,ep,ev,re,r,rp,chk)
+	if not e:GetHandler():GetFlagEffect(90000017)==0 then return end
 	if chk==0 then return Duel.GetLocationCount(tp,LOCATION_MZONE)>0
 		and Duel.IsExistingMatchingCard(c90000017.filter,tp,LOCATION_DECK,0,1,nil,e,tp) end
 	Duel.SetOperationInfo(0,CATEGORY_SPECIAL_SUMMON,nil,1,tp,LOCATION_DECK)
