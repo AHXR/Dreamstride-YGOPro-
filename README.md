@@ -1,4 +1,4 @@
-# Dreamstride - YGOPro-Fan-Made-Archetype - Table of Contents
+# Dreamstride - YGOPro-Fan-Made-Archetype - ToC
 
 * [Overview](https://github.com/AHXR/Dreamstride-YGOPro-#overview)
 * [Strengths & Weaknesses](https://github.com/AHXR/Dreamstride-YGOPro-#strengths--weaknesses)
