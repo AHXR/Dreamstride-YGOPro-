@@ -45,11 +45,12 @@ and only 1 of each is allowed to be on the field at the same time. Those cards c
 Some of the card limitations are crippling and I designed the deck like that for a reason. As you may have noticed, some of the card texts are not the same as the effects you will see in YGOPro. Before some of the balance updates
 some of these cards were snowballing very easily and it just extremely unfair, even for the meta. This is why the images don't completely match the actual effect. Check the table below for the updated effect(s): https://github.com/AHXR/Dreamstride-YGOPro-#cards
 
-# Dreamstride In Action + Breakdown
+# Dreamstride In Action + Breakdown (Video)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nujRkczy1Ik
 " target="_blank"><img src="http://img.youtube.com/vi/nujRkczy1Ik/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
+alt="Click to watch Dreamstride in Action" width="560" height="315" border="10" /></a>
+Click the image above to watch this archetype against Spellbooks & Mermails
 
 ## Duel 1 Breakdown
 
