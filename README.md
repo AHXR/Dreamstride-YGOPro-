@@ -34,7 +34,9 @@ some of these cards were snowballing very easily and it just extremely unfair, e
 
 # Dreamstride In Action + Breakdown
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nujRkczy1Ik" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nujRkczy1Ik
+" target="_blank"><img src="http://img.youtube.com/vi/nujRkczy1Ik/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
 
 ## Duel 1 Breakdown
 
@@ -42,7 +44,7 @@ This duel was against Spellbooks. This was a perfect example of what I meant abo
 underwhelming, this shows how powerful the card can be. This duel also showed one of the biggest strengths with swarming the field and snowballing. Thankfully, the trap cards I added to the deck used in the video stalled me enough
 to setup several big combinations towards the end of the duel. 
 
-# Duel 2 Breakdown
+## Duel 2 Breakdown
 
 Thos duel was against Mermail. Mermails are really good at swarming and beating down an enemy. Beatdown decks are defintely one of the biggest threats against this archetype. Without Dreamstride Dragon and Dreamstride - Wyvern, this archetype
 has no chance to overpower a beatdown deck. You can see several times in the video that even with Dreamstride Dragon out, I still couldn't overpower Mermails. However, I played very patiently and decided to put together some card
