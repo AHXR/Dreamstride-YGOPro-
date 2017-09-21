@@ -1,3 +1,17 @@
+# 1.3 (9/21/2017)
+
+* Dreamstride Guardian added (Only Synchro)
+> 1 Fusion Tuner Monster + 1 or more non-Tuner Monsters. - When this card is Special Summoned: Shuffle all banished cards into the Deck. Once per turn: You can target 1 face-up monster your opponent controls; until the end of this turn, that target has its effects negated and you can use any of its effects as this card's effect. Once per turn, this card cannot be destroyed by Spell/Trap effects.
+
+* Dreamstride - Skeleton Lapse (Xyz)
+> 2 Level 3 FAIRY Monsters - Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; banish that target. The banished monster returns to the opponent's side of the field, in the same battle position, during your 3rd Standby Phase after activation.
+
+* Dreamstride - Nightmirrored Illusion (Xyz)
+> 2 Level 3 FAIRY Monsters - While you control a "Dreamstride Mirror Token", this card cannot be destroyed by battle. Once per turn: You can detach 1 Xyz Material from this card; Special Summon 1 "Dreamstride Mirror Token" (Fairy-Type/DARK/Level 4/Tuner/ATK 0/DEF 0) (This token is treated as a Fusion-Tuner Monster)
+
+* Dreamstride - Eye of Nightmares (Xyz)
+> 2 Level 4 FAIRY Monsters - Once per turn: You can detach 1 Xyz Material and Special Summon 1 FAIRY-Type monster from your hand or graveyard. If this card on the field is sent to the Graveyard: You can target 1 LIGHT FAIRY-Type Synchro Monster in your Graveyard; Special Summon that target.
+
 # 1.2 (9/16/2017)
 
 * Dreamstride - Priest (Synchro) added.

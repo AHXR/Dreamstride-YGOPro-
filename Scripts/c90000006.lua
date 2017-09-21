@@ -38,11 +38,10 @@ function c90000006.operation(e,tp,eg,ep,ev,re,r,rp)
 		-- Cannot special summon for thew rest of the turn.
 		local e3=Effect.CreateEffect(c)
 		e3:SetType(EFFECT_TYPE_FIELD)
-		e3:SetRange(LOCATION_MZONE)
+		e3:SetProperty(EFFECT_FLAG_PLAYER_TARGET)
 		e3:SetCode(EFFECT_CANNOT_SPECIAL_SUMMON)
-		e3:SetProperty(EFFECT_FLAG_PLAYER_TARGET+EFFECT_FLAG_CANNOT_DISABLE)
+		e3:SetReset(RESET_PHASE+PHASE_END)
 		e3:SetTargetRange(1,0)
-		e3:SetReset(RESET_EVENT+0x1fc0000+RESET_PHASE+PHASE_END)
-		c:RegisterEffect(e3)
+		Duel.RegisterEffect(e3,tp)
 	end
 end

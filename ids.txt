@@ -28,3 +28,8 @@ Inner Loathe - 90000024
 Priest - 90000025
 Nightmare Snake Nest - 90000026
 Wyvern - 90000027
+Guardian - 90000028
+Skeleton - 90000029
+Nightmirrored - 90000030
+Dreamstride Mirror Token - 90000031
+Eye - 90000032
