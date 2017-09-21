@@ -64,7 +64,7 @@ to setup several big combinations towards the end of the duel.
 
 ### Duel 2 Breakdown
 
-Thos duel was against Mermail. Mermails are really good at swarming and beating down an enemy. Beatdown decks are defintely one of the biggest threats against this archetype. Without Dreamstride Dragon and Dreamstride - Wyvern, this archetype
+This duel was against Mermail. Mermails are really good at swarming and beating down an enemy. Beatdown decks are defintely one of the biggest threats against this archetype. Without Dreamstride Dragon and Dreamstride - Wyvern, this archetype
 has no chance to overpower a beatdown deck. You can see several times in the video that even with Dreamstride Dragon out, I still couldn't overpower Mermails. However, I played very patiently and decided to put together some card
 combinations to wither away at them. Route to Dreamstride is a very powerful card, but is practically useless early into a duel. That Continous Spell card is probably one of the only good recovery cards for this deck. Towards the end
 of the duel, it allowed me to snowball my way to victory. 
