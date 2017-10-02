@@ -10,16 +10,17 @@
 * [Cards](https://github.com/AHXR/Dreamstride-YGOPro-#cards)
   * [Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#monsters)
   * [Fusion Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#fusion-monsters)
+	* [Fusion X Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#fusion-x-monsters)
   * [Synchro Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#synchro-monsters)
   * [Xyz Monsters](https://github.com/AHXR/Dreamstride-YGOPro-#xyz-monsters)
   * [Spells](https://github.com/AHXR/Dreamstride-YGOPro-#spells)
 
 ## Overview
 ![Preview](http://i.imgur.com/3dyjJbn.jpg) ![Preview](http://i.imgur.com/QZx76xk.jpg)
-Dreamstride is a fan-made archetype that was created for YGOPro. This archetype contains a list of FAIRY monsters and works together with fusion monsters to form powerful Synchro monsters. 
+Dreamstride is a fan-made archetype that was created for YGOPro. This archetype contains a list of FAIRY monsters and works together with fusion monsters to form powerful Synchro monsters. With the
+Fusion Update, Dreamstride Synchro Monsters can fuse into more powerful cards.
 
-I've tested these cards against several decks, even those currently in the meta. Below are the strengths and weaknesses I've personally discovered from playing with these cards. These cards are still a WIP, therefore I have not 
-exported the cards through the card manager yet. 
+I've tested these cards against several decks, even those currently in the meta. Below are the strengths and weaknesses I've personally discovered from playing with these cards.
 
 ## Strengths & Weaknesses
 
@@ -39,11 +40,18 @@ exported the cards through the card manager yet.
 - Synchro monsters require fusion monster material.
 - Fusion Tuners can only be used to Synchro for FAIRY-type monsters
 - Beatdown decks can walk all over this archetype
+- Most meta decks can out-swarm this archetype
 
 To basically sum this up: Dreamstride is pretty good at Special Summoning monsters and swarming the field early-mid way into a duel. However if a combination gets countered, there is little chance of the player recovering
 from that. The monster cards alone have an issue stalling for more time. They all lack attack and defense, which plays a huge part in today's meta. Although that is the case, if the controller takes advantage of swarming
 the field and performs combinations correctly: The controller can either lockdown the opponent or snowball with a few cards. The continous spell cards "to Dreamstride" are very powerful cards, HOWEVER, they cannot be searched
 and only 1 of each is allowed to be on the field at the same time. Those cards can also become a disadvantage because the opposing player can take advantage of the effects as well.
+
+The Dreamstride X cards were designed to fuse the Synchro monsters into more powerful cards. It's like a back and forth thing. This sub-archetype is designed to overcome this build's biggest weakness .. which is 
+its ability to play as a beatdown. These cards are difficult to get out because they require a lot of back and forth fusion/synchro summoning. Below is an example of a Dreamstride X card:
+
+![Preview](https://i.imgur.com/PXNT7Vv.jpg)
+>1 Fusion Tuner Monster + "Dreamstride Dragon" - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card cannot be targeted by the effects of Spells, Traps or Effect Monsters. When this card is Summoned, card and effects cannot be activated and destroy all Spell/Trap Cards your opponent controls. When this card declares an attack: You can have this card gain ATK equal to the total ATK of all Fusion FAIRY monsters currently on the field, except "Dreamstride X - Dragon". This card cannot attack your opponent directly.
 
 Some of the card limitations are crippling and I designed the deck like that for a reason. As you may have noticed, some of the card texts are not the same as the effects you will see in YGOPro. Before some of the balance updates
 some of these cards were snowballing very easily and it just extremely unfair, even for the meta. This is why the images don't completely match the actual effect. Check the table below for the updated effect(s): https://github.com/AHXR/Dreamstride-YGOPro-#cards
@@ -95,6 +103,15 @@ of the duel, it allowed me to snowball my way to victory.
 | Prodromal Soul      				| Fusion Monster  | DARK FAIRY         | 2000/2000 | "Dreamstride - Propdromal" + "Dreamstride - Solid Soul" - This card cannot be destroyed by battle. During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card if able. If this card is used for a Synchro Summon and sent to the Graveyard: draw 1 card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FAIRY-type monster.  |
 | Crescent Owl        				| Fusion Monster  | DARK FAIRY         | 800/1400  | "Dreamstride - Oneirocritica" + "Dreamstride - Insomnia" - Twice per turn, this card cannot be destroyed by battle. Once per turn: You can declare a Level from 1 to 6; this card becomes that Level until the End Phase. If this card is used for a Synchro Summon and sent to the Graveyard: draw 1 card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FAIRY-type monster.  |
 | Inner Loathe        				| Fusion Monster  | DARK FAIRY         | 800/1400  | "Dreamstride - Voices in my Head" + "Dreamstride - Hangman" - All Battle Damage to either player from battle involving this monster becomes 0. During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn: Special Summon this card from the Graveyard. If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster. If this card is used for a Synchro Summon and sent to the Graveyard: draw 1 card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a FAIRY-type monster.  |
+| Conscious Loather        			| Fusion Monster  | DARK FAIRY         | 2500/1800 | "Dreamstride - Inner Loathe" + "Dreamstride - Conscious Revival" - When this card inflicts battle damage to your opponent: You can target 1 of your banished FAIRY-Type monsters; Special Summon that target. If this card is destroyed by battle and sent to the Graveyard: Target 1 FAIRY-Type Monster in your Graveyard; Special Summon that target. |
+| Crippling Connection        		| Fusion Monster  | DARK FAIRY         | 3000/0    | "Dreamstride - Crippling Voices" + "Dreamstride - Connection Inflicter" - This card cannot declare an attack. During either player's turn: you can target 1 face-up monster your opponent controls; this card loses 300 ATK and that monster loses 500 ATK. When this card is destroyed and sent to the Graveyard: You can destroy the monster that destroyed it. |
+| Nightmare Shaman        		    | Fusion Monster  | DARK FAIRY         | 2800/2200 | "Dreamstride - Nightmare Conscious" + "Dreamstride - Prodromal Soul" - During either player's turn: you can reduce this card's ATK to 0; Special Summon 3 Level 4 or lower FAIRY-Type monsters from your Graveyard. |
+
+#### Fusion X Monsters
+| Name        						| Type			  | Attribute & Type   | ATK/DEF   | Effect			   |
+| :-------------------------------: | :------------: | :----------------:  | :-------: | :---------------: |
+| Nightmare Dragon        		    | Fusion Monster  | DARK FAIRY         | 2500/2500 | 1 Fusion Tuner Monster + "Dreamstride Dragon" - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card cannot be targeted by the effects of Spells, Traps or Effect Monsters. When this card is Summoned, card and effects cannot be activated and destroy all Spell/Trap Cards your opponent controls. When this card declares an attack: You can have this card gain ATK equal to the total ATK of all Fusion FAIRY monsters currently on the field, except "Dreamstride X - Dragon". This card cannot attack your opponent directly. |
+| Sacred Royalty        		    | Fusion Monster  | DARK FAIRY         | 3200/2500 | "Dreamstride - Priest" + "Dreamstride - Priestess" - This card cannot be Special Summoned from the Graveyard. When this card is Special Summoned: Your opponent cannot activate Spell/Trap Cards until the end of their 3rd turn after activation. This card can attack twice during each Battle Phase. If this card attacks, your opponent cannot activate any Spell/Trap cards until the end of the Damage Step. This card cannot attack your opponent directly. 
 
 ### Synchro Monsters
 | Name        						| Type			  | Attribute & Type	   | ATK/DEF   | Effect			   |
@@ -122,3 +139,4 @@ of the duel, it allowed me to snowball my way to victory.
 | Journey to Dreamstride			| Continuous     | You cannot activate Spell Cards after you activate this card for the rest of the turn. When this card is activated: You can add 1 Level 4 or lower FAIRY monster from your Deck to your hand. When a player Synchro Summons or Fusion Summons: They can draw 1 card. You can only control 1 "Journey to Dreamstride" |
 | Route to Dreamstride		   	    | Continuous     | You cannot activate Spell Cards after you activate this card for the rest of the turn. All "FAIRY" monsters gain 100 ATK and DEF. While this card is on the field: Both players can Fusion Summon 1 Fusion Monster from their Extra Deck, by banishing Fusion Materials listed on it from their Graveyard. You can only control 1 "Route to Dreamstride" |
 | Expedition to Dreamstride			| Continuous     | You cannot activate Spell Cards after you activate this card for the rest of the turn. Once per turn, during your Main Phase, you can Tribute 1 FAIRY-type monster; Special Summon 1 Fusion Monster from your Extra Deck with the same Level as the Tributed monster. You can only control 1 "Expedition to Dreamstride" |
+| Dreamstride Fusion			    | Equip          | When this card is activated: Fusion Summon 1 Level 4 or lower Fairy-Type Fusion Monster from your Extra Deck, by sending Fusion Materials listed on it from your Deck to the Graveyard and equip it with this card. It cannot attack the turn it is Special Summoned. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card. If this card is in your Graveyard: You can banish 1 Fairy-Type monster from your Graveyard; add this card to your hand. You can only activate the effect of "Dreamstride Fusion" once per turn. |

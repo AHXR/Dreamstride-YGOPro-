@@ -1,3 +1,25 @@
+# 1.4 - The "Fusion" Update (10/2/2017)
+
+* Dreamstride Priest's effect now only applies to spell cards whilst Dreamstride Priestess effect applies to traps.
+
+* Dreamstride Fusion (Spell)
+> When this card is activated: Fusion Summon 1 Level 4 or lower Fairy-Type Fusion Monster from your Extra Deck, by sending Fusion Materials listed on it from your Deck to the Graveyard and equip it with this card. It cannot attack the turn it is Special Summoned. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card. If this card is in your Graveyard: You can banish 1 Fairy-Type monster from your Graveyard; add this card to your hand. You can only activate the effect of "Dreamstride Fusion" once per turn.
+
+* Dreamstride X - Sacred Royalty (Fusion)
+> "Dreamstride - Priest" + "Dreamstride - Priestess" - This card cannot be Special Summoned from the Graveyard. When this card is Special Summoned: Your opponent cannot activate Spell/Trap Cards until the end of their 3rd turn after activation. This card can attack twice during each Battle Phase. If this card attacks, your opponent cannot activate any Spell/Trap cards until the end of the Damage Step. This card cannot attack your opponent directly. "
+
+* Dreamstride X - Nightmare Dragon (Fusion)
+> "1 Fusion Tuner Monster + "Dreamstride Dragon" - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card cannot be targeted by the effects of Spells, Traps or Effect Monsters. When this card is Summoned, card and effects cannot be activated and destroy all Spell/Trap Cards your opponent controls. When this card declares an attack: You can have this card gain ATK equal to the total ATK of all Fusion FAIRY monsters currently on the field, except "Dreamstride X - Dragon". This card cannot attack your opponent directly.
+
+* Dreamstride - Conscious Loather (Fusion)
+> "Dreamstride - Inner Loathe" + "Dreamstride - Conscious Revival" - When this card inflicts battle damage to your opponent: You can target 1 of your banished FAIRY-Type monsters; Special Summon that target. If this card is destroyed by battle and sent to the Graveyard: Target 1 FAIRY-Type Monster in your Graveyard; Special Summon that target.
+
+* Dreamstride - Crippling Connection (Fusion)
+> "Dreamstride - Crippling Voices" + "Dreamstride - Connection Inflicter" - This card cannot declare an attack. During either player's turn: you can target 1 face-up monster your opponent controls; this card loses 300 ATK and that monster loses 500 ATK. When this card is destroyed and sent to the Graveyard: You can destroy the monster that destroyed it. 
+
+* Dreamstride - Nightmare Shaman (Fusion)
+> "Dreamstride - Nightmare Conscious" + "Dreamstride - Prodromal Soul" - During either player's turn: you can reduce this card's ATK to 0; Special Summon 3 Level 4 or lower FAIRY-Type monsters from your Graveyard.
+
 # 1.3 (9/21/2017)
 
 * Dreamstride Guardian added (Only Synchro)

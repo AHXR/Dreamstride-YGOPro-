@@ -1,0 +1,41 @@
+These were the IDs I used when I created these cards into YGOPro. Check the scripts folder if you're looking to match the related card with the code.
+
+Conscious - 90000000
+Insomnia - 90000001
+Nightmare Inflicter - 90000002
+Oneirocritica - 90000003
+Prodromal - 90000004
+Solid Soul - 90000005
+Unconscious Beast - 90000006
+Voices in my Head - 90000007
+Witch - 90000008
+Journey - 90000009
+Route - 90000010
+Everlasting Nightmare - 90000011
+Conscious Revival - 90000012
+Crippling Voices - 90000013
+Nightmare Inflicter - 90000014
+Propdromal Soul - 90000015
+Lucid - 90000016
+Manifest - 90000017
+Priestess - 90000018
+Rhythem - 90000019
+Crecent Owl - 90000020
+Dragon - 90000021
+Expedition - 90000022
+Hangman - 90000023
+Inner Loathe - 90000024
+Priest - 90000025
+Nightmare Snake Nest - 90000026
+Wyvern - 90000027
+Guardian - 90000028
+Skeleton - 90000029
+Nightmirrored - 90000030
+Dreamstride Mirror Token - 90000031
+Eye - 90000032
+Sacred Royalty - 90000033
+Conscious Loather - 90000034
+Crippling Connection - 90000035
+Nightmare Shaman - 90000036
+Fusion - 90000037
+XNightmare - 90000038
