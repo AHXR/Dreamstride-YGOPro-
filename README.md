@@ -16,7 +16,7 @@
   * [Spells](https://github.com/AHXR/Dreamstride-YGOPro-#spells)
 
 ## Overview
-![Preview](http://i.imgur.com/3dyjJbn.jpg) ![Preview](http://i.imgur.com/QZx76xk.jpg)
+<div style="text-align:center">![Preview](http://i.imgur.com/3dyjJbn.jpg) ![Preview](http://i.imgur.com/QZx76xk.jpg)</div>
 Dreamstride is a fan-made archetype that was created for YGOPro. This archetype contains a list of FAIRY monsters and works together with fusion monsters to form powerful Synchro monsters. With the
 Fusion Update, Dreamstride Synchro Monsters can fuse into more powerful cards.
 
@@ -50,7 +50,7 @@ and only 1 of each is allowed to be on the field at the same time. Those cards c
 The Dreamstride X cards were designed to fuse the Synchro monsters into more powerful cards. It's like a back and forth thing. This sub-archetype is designed to overcome this build's biggest weakness .. which is 
 its ability to play as a beatdown. These cards are difficult to get out because they require a lot of back and forth fusion/synchro summoning. Below is an example of a Dreamstride X card:
 
-![Preview](https://i.imgur.com/PXNT7Vv.jpg)
+<div style="text-align:center">![Preview](https://i.imgur.com/PXNT7Vv.jpg)</div>
 >1 Fusion Tuner Monster + "Dreamstride Dragon" - A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card cannot be targeted by the effects of Spells, Traps or Effect Monsters. When this card is Summoned, card and effects cannot be activated and destroy all Spell/Trap Cards your opponent controls. When this card declares an attack: You can have this card gain ATK equal to the total ATK of all Fusion FAIRY monsters currently on the field, except "Dreamstride X - Dragon". This card cannot attack your opponent directly.
 
 Some of the card limitations are crippling and I designed the deck like that for a reason. As you may have noticed, some of the card texts are not the same as the effects you will see in YGOPro. Before some of the balance updates
